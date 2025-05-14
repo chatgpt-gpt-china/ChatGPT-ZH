@@ -1,14 +1,14 @@
 # 【最新ChatGPT中文版指南】免费国内使用，支持GPT-4.1、GPT-4o画图、o3模型
 
-> **更新时间：2025/05/13**    
+> **更新时间：2025/05/15**    
   
 国内能轻松使用的 [**ChatGPT 中文版**](https://chat.lanjing.pro)，**无需翻墙**，**支持 GPT-4.1、4o、4o画图、o1、o3 及中文版功能**
 
-本指南提供 **[ChatGPT 中文版](https://chat.lanjing.pro)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://chat.xsimple.top) 和详细使用教程，帮助您快速上手 ChatGPT ~
+本指南提供 **[ChatGPT 中文版](https://chat.lanjing.pro)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和详细使用教程，帮助您快速上手 ChatGPT ~
 
 
 ChatGPT 中文版：**[chat.lanjing.pro](https://chat.lanjing.pro)**   
-ChatGPT 镜像网站：**[chat.xsimple.top](https://chat.xsimple.top)**
+ChatGPT 镜像网站：**[xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
@@ -30,7 +30,7 @@ ChatGPT 镜像网站：**[chat.xsimple.top](https://chat.xsimple.top)**
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [chat.lanjing.pro](https://chat.lanjing.pro)   | GPT-4, GPT-3.5，deepseek-r1，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.xsimple.top](https://chat.xsimple.top)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [xsimplechat.com](https://xsimplechat.com)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-3.5 | 有              | 微信扫码使用        | ⭐⭐⭐⭐⭐    | 提供稳定服务                 |
 | [yixiaai.cn](https://yixiaai.cn)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
